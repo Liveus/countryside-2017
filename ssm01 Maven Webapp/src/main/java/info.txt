@@ -1,0 +1,22 @@
+[[Ljava.lang.String;@ffca6ad, [Ljava.lang.String;@9cb958d, 
+[Ljava.lang.String;@757d4768, [Ljava.lang.String;@42f7a0c6]
+
+A B C D
+
+[Ljava.lang.String;@ffca6ad A
+[Ljava.lang.String;@9cb958d B
+
+[Ljava.lang.String;@ffca6ad A
+[Ljava.lang.String;@757d4768 C
+
+[Ljava.lang.String;@ffca6ad A
+[Ljava.lang.String;@42f7a0c6 D
+
+[Ljava.lang.String;@9cb958d B
+[Ljava.lang.String;@757d4768 C
+
+[Ljava.lang.String;@9cb958d B
+[Ljava.lang.String;@42f7a0c6 D
+
+[Ljava.lang.String;@757d4768 C
+[Ljava.lang.String;@42f7a0c6 D
